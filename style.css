@@ -79,6 +79,11 @@ body{
 .parametro-senha__titulo{
     font-size:24px;
 }
+.parametro-senha__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+border: 2px solid var(--borda);
+}
 
 .parametro-coluna__senha{
     display: flex;
